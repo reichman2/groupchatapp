@@ -1,0 +1,45 @@
+# FILE HEADER
+# Possible way to save chat (in one file).
+
+messages:
+  - text: 'fsgjalksjdflkagrjetwr wetrjoq34'
+    sender:
+      name: 'Boop'
+      displayName: 'pooB'
+      id: 33234123
+      role: 'DEFAULT'
+      color: 'RED'
+    timeStamp: 12345678987
+  - text: 'sdaflaksyroq32i7tq8otv qerutyq23i4t'
+    sender:
+      name: 'Scoop'
+      displayName: 'poocS'
+      id: 7313278
+      role: 'USER'
+      color: BLUE
+    timeStamp: 1234567998
+
+
+
+##!!me.brianr.groupchat.chat.Message
+#text: 'Big Message Boy'
+#sender:
+#  !!me.brianr.groupchat.users.User
+#  name: 'Boop'
+#  displayName: 'pooB'
+#  id: -1
+#  role: 'DEFAULT'
+#  color: RED
+#timeStamp: 12345678765
+#
+##!!me.brianr.groupchat.chat.Message
+#text: 'Bigger Message Boy'
+#sender:
+#  !!me.brianr.groupchat.chat.User
+#  name: 'ananab'
+#  displayName: 'banana'
+#  id: -2
+#  role: 'DEFAULT'
+#  color: GREEN
+#timeStamp: 11112222333
+  

@@ -1,0 +1,13 @@
+# Server Config File
+
+mysql-server:
+  host: '127.0.0.1:80/verify.php'
+  username: root
+  password: ''
+max-users: 100
+server-port: 2586
+server-user:
+  server-name: '[SERVER]'
+  server-color: '#FFD400'
+command-identifier: '!'
+potty-words-allowed: false

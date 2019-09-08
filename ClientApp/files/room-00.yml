@@ -1,0 +1,34 @@
+# This is the file where all the messages are saved.
+# In order for the program to work correctly, there must be at least one message in this file.
+# DO NOT REMOVE THE FIRST MESSAGE IN THIS FILE
+messages:
+- text: ''
+  sender: {name: Boop, displayName: pooB, id: 33234123, role: DEFAULT, color: RED}
+  timeStamp: 12345678987
+- text: Test
+  sender: {name: '169.254.57.107:57342', displayName: BRIAN, id: 16925457107, role: DEFAULT}
+  timeStamp: 1559315148669
+- text: hello&nbsp;there&nbsp;Bnana
+  sender: {name: '169.254.57.107:57342', displayName: BRIAN, id: 16925457107, role: DEFAULT}
+  timeStamp: 1559315163036
+- text: hi
+  sender: {name: '10.30.32.56:51840', displayName: Banana, id: 10303256, role: DEFAULT}
+  timeStamp: 1559315166509
+- text: toaster
+  sender: {name: '169.254.57.107:57342', displayName: BRIAN, id: 16925457107, role: DEFAULT}
+  timeStamp: 1559315172412
+- text: hi
+  sender: {name: brian, displayName: Brain, id: 0, role: ADMIN}
+  timeStamp: 1559315215298
+- text: <h1>Hello</h1>
+  sender: {name: brian, displayName: Brain, id: 0, role: ADMIN}
+  timeStamp: 1559315231606
+- text: faskjdfh
+  sender: {name: brian, displayName: Brain, id: 0, role: ADMIN}
+  timeStamp: 1559315237048
+- text: test
+  sender: {name: '10.30.32.56:51840', displayName: Banana, id: 10303256, role: DEFAULT}
+  timeStamp: 1559315241005
+- text: hi
+  sender: {name: '169.254.57.107:57342', displayName: BRIAN, id: 16925457107, role: DEFAULT}
+  timeStamp: 1559315247083
